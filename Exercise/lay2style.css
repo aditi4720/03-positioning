@@ -1,0 +1,21 @@
+.main-block{
+    padding: 10px;
+    margin: 10px;
+}
+.block1{
+    display: block;
+}
+.block2{
+    display: block;
+}
+.block3{
+    display: block;
+}
+hr{
+    width: 90%;
+    
+}
+img{
+    height:70px;
+    width: 70px;
+}
